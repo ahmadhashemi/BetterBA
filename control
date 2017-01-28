@@ -1,9 +1,9 @@
 Package: com.ahmad.betterba
 Name: BetterBA
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Add remember passcode ability to Ayandeh mobile banking application
 Maintainer: Ahmad
 Author: Ahmad
 Section: Tweaks
