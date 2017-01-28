@@ -2,17 +2,17 @@
 
 static NSString *preferencesFilePath = @"/private/var/mobile/Library/Preferences/com.ahmad.betterba.plist";
 
-%hook PasscodeViewController
+// %hook PasscodeViewController
 
--(void)viewDidAppear:(BOOL)animated {
+// -(void)viewDidAppear:(BOOL)animated {
 
-	%orig;
+// 	%orig;
 
-	[self dismissViewControllerAnimated:YES completion:nil];
+// 	[self dismissViewControllerAnimated:YES completion:nil];
 
-}
+// }
 
-%end
+// %end
 
 %hook CardInfoEntryViewController
 
